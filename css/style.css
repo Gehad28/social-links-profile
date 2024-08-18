@@ -53,18 +53,12 @@ body{
     font-weight: 400;
 }
 
-/* .links{
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1rem;
-} */
 
 .links a{
     text-decoration: none;
     color: white;
     font-size: 14px;
     font-weight: 400;
-    /* margin-bottom: 1rem; */
 }
 
 .links p{
@@ -84,12 +78,6 @@ body{
     font-size: 14px;
     font-weight: 600;
 }
-
-/* .links p:hover a{
-    color: hsl(0, 0%, 8%);
-    font-size: 14px;
-    font-weight: 600;
-} */
 
 .links p:last-child{
     margin-bottom: 0;
